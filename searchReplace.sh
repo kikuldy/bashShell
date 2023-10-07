@@ -1,3 +1,3 @@
 #! /bin/bash
 
-# sed 's/a/b/2g' a.txt
+# sed 's/a/b/g' a.txt
