@@ -3,3 +3,4 @@
 # sed 's/a/b/g' a.txt
 1
 2
+3
